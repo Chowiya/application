@@ -22,7 +22,7 @@ app.use(express.urlencoded({limit:"50mb",
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "http://localhost:5173", "https://application-4nns.onrender.com",
     credentials: true,
   })
 );
