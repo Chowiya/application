@@ -1,19 +1,40 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+🚀 Features
+✅ Real-time Messaging - Instant communication with WebSockets
+✅ User Authentication - Signup, login, and secure JWT-based authentication
+✅ Private & Group Chats - One-on-one messaging & group chat support
+✅ Online Status - Shows active and offline users
+✅ Message Notifications - Live updates on new messages
+✅ Profile Management - Update user details & avatar
+✅ Responsive UI - Fully mobile-friendly
 
-Highlights:
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+🛠 Tech Stack
+Frontend: React, Vite, Tailwind CSS
+
+Backend: Node.js, Express.js, MongoDB, Mongoose
+
+Real-Time Communication: Socket.io
+
+Authentication: JWT (JSON Web Token)
+
+Database: MongoDB with Mongoose ORM
+
+Styling: Tailwind CSS
+
+Deployment: Render
+
+
+🔥 How to Use?
+Sign up or log in to the chat app
+
+Start a private chat or create a group
+
+Send & receive real-time messages
+
+View online users and profile updates
 
 ### Setup .env file
 
